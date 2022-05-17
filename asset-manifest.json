@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/f-tech/static/css/main.918cbed3.chunk.css",
-    "main.js": "/f-tech/static/js/main.a71e8516.chunk.js",
-    "main.js.map": "/f-tech/static/js/main.a71e8516.chunk.js.map",
+    "main.js": "/f-tech/static/js/main.0ce22a6c.chunk.js",
+    "main.js.map": "/f-tech/static/js/main.0ce22a6c.chunk.js.map",
     "runtime-main.js": "/f-tech/static/js/runtime-main.97718ada.js",
     "runtime-main.js.map": "/f-tech/static/js/runtime-main.97718ada.js.map",
     "static/css/2.1f208231.chunk.css": "/f-tech/static/css/2.1f208231.chunk.css",
@@ -17,15 +17,15 @@
     "static/media/engineering.5d5ad1ad.svg": "/f-tech/static/media/engineering.5d5ad1ad.svg",
     "static/media/lines.41cc4e50.png": "/f-tech/static/media/lines.41cc4e50.png",
     "static/media/person.b4da45f4.jpg": "/f-tech/static/media/person.b4da45f4.jpg",
-    "static/media/perspective.39336959.jpg": "/f-tech/static/media/perspective.39336959.jpg",
+    "static/media/perspective.172785ab.jpg": "/f-tech/static/media/perspective.172785ab.jpg",
     "static/media/quote.8bd85d7a.svg": "/f-tech/static/media/quote.8bd85d7a.svg",
     "static/media/rb.1a93da99.jpg": "/f-tech/static/media/rb.1a93da99.jpg",
     "static/media/robot-arm.0aac7b35.jpg": "/f-tech/static/media/robot-arm.0aac7b35.jpg",
     "static/media/robot-friendly-2.e2b47467.jpg": "/f-tech/static/media/robot-friendly-2.e2b47467.jpg",
     "static/media/robot-friendly-3.8258ba67.jpg": "/f-tech/static/media/robot-friendly-3.8258ba67.jpg",
     "static/media/robot-friendly-4.8ff00717.jpg": "/f-tech/static/media/robot-friendly-4.8ff00717.jpg",
+    "static/media/robot.cccbe6cb.jpg": "/f-tech/static/media/robot.cccbe6cb.jpg",
     "static/media/robot.d5e629a8.svg": "/f-tech/static/media/robot.d5e629a8.svg",
-    "static/media/robot.de98d181.jpg": "/f-tech/static/media/robot.de98d181.jpg",
     "static/media/tech1.4e2ef403.jpg": "/f-tech/static/media/tech1.4e2ef403.jpg",
     "static/media/tech2.24d80ad4.jpg": "/f-tech/static/media/tech2.24d80ad4.jpg",
     "static/media/tech3.5632bf7b.jpg": "/f-tech/static/media/tech3.5632bf7b.jpg",
@@ -39,6 +39,6 @@
     "static/css/2.1f208231.chunk.css",
     "static/js/2.39479287.chunk.js",
     "static/css/main.918cbed3.chunk.css",
-    "static/js/main.a71e8516.chunk.js"
+    "static/js/main.0ce22a6c.chunk.js"
   ]
 }
